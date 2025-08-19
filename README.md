@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Arthur Dombroski, tenho 16 anos, e atualmente estou cursando Desenvolvimento de Sistemas na ETEC Bento Quirino integrado com Ensino Médio. Estou a procura de um emprego nessa mesma área. Atualmente estudo Front e Back End, mas pretendo trabalhar na área de Back End. Tenho um perfil no "[Linkedin](https://www.linkedin.com/in/arthur-dombroski-83b345354/)".
+Me chamo Arthur Dombroski, tenho 16 anos, e atualmente estou cursando Desenvolvimento de Sistemas na ETEC Bento Quirino integrado com Ensino Médio. Estou a procura de um emprego nessa mesma área. Atualmente estudo Front e Back End, mas pretendo trabalhar na área de Back End. Tenho experiência com Node.js, Esp32, C, Java, JavaScript. Tenho um perfil no "[Linkedin](https://www.linkedin.com/in/arthur-dombroski-83b345354/)".
 
 <p align="left">
     <a href="https://github.com/ArthurDombroski?tab=followers">
