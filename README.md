@@ -2,7 +2,10 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Arthur Dombroski, tenho 16 anos, e atualmente estou cursando Desenvolvimento de Sistemas na ETEC Bento Quirino integrado com Ensino Médio. Estou a procura de um emprego nessa mesma área. Atualmente estudo Front e Back End, mas pretendo trabalhar na área de Back End. Tenho experiência com Node.js, Esp32, C, Java, JavaScript. Tenho um perfil no "[Linkedin](https://www.linkedin.com/in/arthur-dombroski-83b345354/)".
+Atualmente estou cursando  técnico de Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC Bento Quirino integrado com Ensino Médio. Tenho uma grande disposição em adquirir um novo aprendizado. Estou a procura de um emprego nessa mesma área. Atualmente estudo Front e Back End, mas pretendo trabalhar na área de Back End.
+Ao longo da formação, participei de projetos práticos envolvendo desenvolvimento web, integração com bancos de dados. Também produzi projetos de IoT e processamento de dados em tempo real.
+Busco constantemente evoluir como desenvolvedor e pessoa, aprendendo novas ferramentas e metodologias para criar soluções eficientes, seguras e alinhadas às necessidades do negócio.
+Tenho um perfil no "[Linkedin](https://www.linkedin.com/in/arthur-dombroski-83b345354/)".
 
 
 
@@ -60,7 +63,14 @@ style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
  />
 
- 
+<img 
+align="left"
+alt="MONGODB"
+title="MONGODB"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+          
 <img 
 align="left"
 alt="VSCODE"
