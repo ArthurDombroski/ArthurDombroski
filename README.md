@@ -1,148 +1,42 @@
-# 👨🏻‍💻 ArthurDombroski
+<h1 align="center">Olá, eu sou o Arthur 👋</h1>
 
-**`Estudante de Desenvolvimento de Sistemas`**
-
-Atualmente estou cursando  técnico de Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC Bento Quirino integrado com Ensino Médio. Tenho uma grande disposição em adquirir um novo aprendizado. Estou a procura de um emprego nessa mesma área. Atualmente estudo Front e Back End, mas pretendo trabalhar na área de Back End.
-Ao longo da formação, participei de projetos práticos envolvendo desenvolvimento web, integração com bancos de dados. Também produzi projetos de IoT e processamento de dados em tempo real.
-Busco constantemente evoluir como desenvolvedor e pessoa, aprendendo novas ferramentas e metodologias para criar soluções eficientes, seguras e alinhadas às necessidades do negócio.
-Tenho um perfil no "[Linkedin](https://www.linkedin.com/in/arthur-dombroski-83b345354/)".
-
-
-
-
-### 🐱‍💻 Linguagens e Tecnologias
-
-
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-
-
-<img
-align="left"
-alt="CSS"
-title="CSS"
-width="30px"
-style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
- />
-          
-
-
-<img
-align="left"
-alt="Java Script"
-title="Java Script"
-width="30px"
-style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
- />
-
- 
-<img
-align="left"
-alt="Node.js"
-title="Node.js"
-width="30px"
-style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
- />
-
- 
-<img
-align="left"
-alt="JAVA"
-title="JAVA"
-width="30px"
-style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
- />
-
-<img 
-align="left"
-alt="MONGODB"
-title="MONGODB"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-          
-<img 
-align="left"
-alt="VSCODE"
-title="VSCODE"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-
-<img 
- align="left"
- alt="GITHUB"
- title="GITHUB"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-            
- <img 
- align="left"
- alt="GIT"
- title="GIT"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-          
-<br/>
-<br/>
-
-### 📘 Aprendendo
-
-<img
-align="left"
-alt="Node.js"
-title="Node.js"
-width="30px"
-style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
- />
-
- 
-<img
-align="left"
-alt="JAVA"
-title="JAVA"
-width="30px"
-style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
- />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurDombroski&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDombroski&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  Desenvolvedor Backend <br>
 </p>
 
+---
+
+### Sobre mim
+
+- Cursando **Desenvolvimento de Sistemas** na ETEC Bento Quirino
+- Foco em **desenvolvimento backend**.
+- Construindo projetos reais para aprender arquitetura, boas práticas e integração de sistemas
+
+---
+
+### Stack principal
+
+**Backend**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Banco de dados & Infra**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**IoT & Tempo real**
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
+
+
+### Como me encontrar
+
+- LinkedIn: https://www.linkedin.com/in/arthur-dombroski/
+- Email: arthurbdombroski@gmail.com
+
+---
 
